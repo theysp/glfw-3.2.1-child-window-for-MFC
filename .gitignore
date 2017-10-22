@@ -1,3 +1,9 @@
+build_2017
+docs
+examples
+tests
+Win32
+
 # Compiled Object files
 *.slo
 *.lo
