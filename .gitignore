@@ -1,8 +1,8 @@
-build_2017
-docs
 examples
 tests
+docs
 Win32
+build_2017
 
 # Compiled Object files
 *.slo
